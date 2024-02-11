@@ -16,6 +16,7 @@ This Python script seems to be a comprehensive example of data import, preproces
    - Predictions are made on the test data.
    - Accuracy and classification report (including precision, recall, F1-score) are computed and printed.
 
+
 3. **GitHub README Description**:
    - For the GitHub README file, you can structure the description as follows:
      - Introduction: Briefly introduce the purpose of the script (fraud detection) and its components.
@@ -26,3 +27,7 @@ This Python script seems to be a comprehensive example of data import, preproces
      - Credits and License: Give credit to the original author or data source, and specify the license if applicable.
 
 By following this structure, users will have a clear understanding of what the script does and how to use it for their own purposes.
+
+
+
+<img width="784" alt="Screenshot 2024-02-11 at 9 58 11 PM" src="https://github.com/hannu-shaik/CREDIT-CARD-FRAUD-DETECTION/assets/140539636/2d5d017b-f62c-4f03-85cf-cbb80b61b4e2">

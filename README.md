@@ -1,6 +1,5 @@
 # CREDIT-CARD-FRAUD-DETECTION
 
-This Python script seems to be a comprehensive example of data import, preprocessing, and building a decision tree model for fraud detection. Here's a breakdown of its functionality:
 
 1. **Data Import and Preprocessing**:
    - The script begins by importing necessary libraries and setting up environment variables.
